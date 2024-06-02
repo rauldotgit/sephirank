@@ -31,14 +31,14 @@
         "id": 5,
         "name": "Minho",
         "email": "",
-        "icon": "/chars/Hero.png",
+        "icon": "/chars/Jigglypuff.png",
         "rank": 5
     },
     "5": {
         "id": 6,
         "name": "Noc",
         "email": "",
-        "icon": "/chars/Mewtwo.png",
+        "icon": "/chars/King_K_Rool.png",
         "rank": 6
     },
     "6": {
@@ -59,14 +59,14 @@
         "id": 9,
         "name": "Fabian",
         "email": "",
-        "icon": "/chars/Hero.png",
+        "icon": "/chars/Toon_Link.png",
         "rank": 9
     },
     "9": {
         "id": 10,
-        "name": "Unkown",
+        "name": "Andy",
         "email": "",
-        "icon": "/chars/Hero.png",
+        "icon": "/chars/Mr_Game_Watch.png",
         "rank": 10
     }
 }
