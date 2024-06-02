@@ -1,0 +1,72 @@
+{
+    "0": {
+        "id": 1,
+        "name": "Raul",
+        "email": "",
+        "icon": "/chars/Sephiroth.png",
+        "rank": 3
+    },
+    "1": {
+        "id": 2,
+        "name": "Can",
+        "email": "",
+        "icon": "/chars/Pikachu.png",
+        "rank": 1
+    },
+    "2": {
+        "id": 3,
+        "name": "Yeo",
+        "email": "",
+        "icon": "/chars/Hero.png",
+        "rank": 2
+    },
+    "3": {
+        "id": 4,
+        "name": "Bap",
+        "email": "",
+        "icon": "/chars/Ganondorf.png",
+        "rank": 4
+    },
+    "4": {
+        "id": 5,
+        "name": "Minho",
+        "email": "",
+        "icon": "/chars/Hero.png",
+        "rank": 5
+    },
+    "5": {
+        "id": 6,
+        "name": "Noc",
+        "email": "",
+        "icon": "/chars/Mewtwo.png",
+        "rank": 6
+    },
+    "6": {
+        "id": 7,
+        "name": "Thai",
+        "email": "",
+        "icon": "/chars/Samus.png",
+        "rank": 7
+    },
+    "7": {
+        "id": 8,
+        "name": "Bao",
+        "email": "",
+        "icon": "/chars/Hero.png",
+        "rank": 8
+    },
+    "8": {
+        "id": 9,
+        "name": "Fabian",
+        "email": "",
+        "icon": "/chars/Hero.png",
+        "rank": 9
+    },
+    "9": {
+        "id": 10,
+        "name": "Unkown",
+        "email": "",
+        "icon": "/chars/Hero.png",
+        "rank": 10
+    }
+}
